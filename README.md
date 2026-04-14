@@ -28,5 +28,11 @@ Andmebaasidega seotud sql kood ja konspektid
   - date, time, datetime - kuupäeva
  
 ## Piirangud
-1.
+```
+1. Primary Key
+2. Foreign Key
+3. Unique
+4. Not Null
+5. Check
+```
   
