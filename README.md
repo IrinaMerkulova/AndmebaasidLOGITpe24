@@ -1,6 +1,10 @@
 # AndmebaasidLOGITpe24
 Andmebaasidega seotud sql kood ja konspektid
 
+- SQL - structured Query Language - struktureeritud päringukeel
+- DDL - Data Definition Language -andmebaasi struktuuri loomiseks - CREATE, ALTER
+- DML - Data Manipulation Language -andmete lisamine ja uuendamine tabelis - INSERT, UPDATE, DELETE
+
 
 ### tunnis me kasutame andmebaasihaldusüsteemid:
 1. SQL Server Management Stuudio (SQL Serveri haldamiseks)
