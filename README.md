@@ -6,11 +6,11 @@ Andmebaasidega seotud sql kood ja konspektid
 - DML - Data Manipulation Language -andmete lisamine ja uuendamine tabelis - INSERT, UPDATE, DELETE
   
 ## Sisukord
-  - [Andmebaasihaldusüsteemid](#-andmebaasihaldusüsteemid)
-  - [Põhimõisted](#-põhimõisted)
-  - [Andmetüübid](#-andmetüübid)
-  - [Piirangud](#-piirangud)
-  - [Tabelivahelised Seosed](#-tabelivahelised-seosed)
+  - [Andmebaasihaldusüsteemid](#andmebaasihaldusüsteemid)
+  - [Põhimõisted](#põhimõisted)
+  - [Andmetüübid](#andmetüübid)
+  - [Piirangud](#piirangud)
+  - [Tabelivahelised Seosed](#tabelivahelised-seosed)
 
 ## Andmebaasihaldusüsteemid
 1. SQL Server Management Stuudio (SQL Serveri haldamiseks)
