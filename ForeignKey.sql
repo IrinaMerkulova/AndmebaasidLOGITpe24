@@ -5,7 +5,7 @@ opilaneId int,
 Foreign Key (opilaneId) References opilane(opilaneId), --tabel(PK veerg)
 oppeaine varchar(25),
 hinne int);
-Select * from opilane;
+Select * from opilane; 
 select * from opilaneTunnis;
 
 --lisame andmeid opilaneTunnis tabelisse
