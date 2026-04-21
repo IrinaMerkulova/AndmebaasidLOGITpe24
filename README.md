@@ -48,4 +48,19 @@ Andmebaasidega seotud sql kood ja konspektid
 
 - mitu - mitmele (nt õpilane - õpetaja)
 
+## Stored procedure
+  Salvestatud protseduurid - sama mis on funktsioonid programeerimises - mingi tegevus(ed), mida saab automaatselt teha (INSERT, SELECT, UPDATE, DELETE)
+```sql
+CREATE PROCEDURE lisaKategooria
+@nimi varchar(15)
+AS
+BEGIN
+	INSERT INTO categories
+	VALUES (@nimi);
+	SELECT * FROM categories;
+END
+--kutse
+EXEC lisaKategooria 'test';
+```
+
   
