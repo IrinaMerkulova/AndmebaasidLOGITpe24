@@ -62,6 +62,6 @@ END
 --kutse
 EXEC lisaKategooria 'test';
 ```
-<img width="1070" height="494" alt="{846C3414-D27D-4B9A-B7E3-0729D595E74A}" src="https://github.com/user-attachments/assets/bfac6683-0b82-4402-8ad6-25f53f55b62a" />
+<img width="500" height="250" alt="{846C3414-D27D-4B9A-B7E3-0729D595E74A}" src="https://github.com/user-attachments/assets/bfac6683-0b82-4402-8ad6-25f53f55b62a" />
 
   
