@@ -70,3 +70,18 @@ insert into auto (autonumber, mark, mudell, v_aasta, varv, hind) values ('9548zj
 
 
 ```
+
+```sql
+--Näita kõik
+Select * from auto;
+-- Näita ainult mark, mudel ja hind
+Select mark, mudell, hind from auto;
+--tingimused
+-- sorteerimine - ORDER by -kasvavalt, DESC - kahanevalt
+Select mark, mudell, hind 
+from auto
+ORDER by hind DESC;
+```
+
+<img width="509" height="377" alt="{2A3BE18E-E49B-4649-8F84-B038A5D227D5}" src="https://github.com/user-attachments/assets/cc30fdde-6629-4c6d-af44-ecc1e40b3112" />
+
