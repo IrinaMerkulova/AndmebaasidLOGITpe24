@@ -1,6 +1,6 @@
 ## SQL Server – Kasutajate autentimine ja õiguste haldamine
 Mis on autentimine SQL Serveris?
- ### Autentimine tähendab kasutaja tuvastamist ehk kontrollimist, kas kasutajal on õigus SQL Serverisse sisse logida.
+### Autentimine tähendab kasutaja tuvastamist ehk kontrollimist, kas kasutajal on õigus SQL Serverisse sisse logida.
 
 **SQL Serveris kasutatakse kahte peamist autentimise tüüpi:**
 
@@ -77,14 +77,13 @@ Menüüst Membership saab määrata kasutaja rollid.
 
 
 ------------------------------------------------------------------------
-SQL Server Authentication Mode muutmine
+```
+#### SQL Server Authentication Mode muutmine
 Kui ilmub viga: Error 18456, siis on tavaliselt lubatud ainult Windows Authentication.
-Lahendus
-Server → Properties
+Lahendus: Server → Properties -->
 Security
-Vali: SQL Server and Windows Authentication mode
-GRANT käsud õiguste jagamiseks
-GRANT käsuga antakse kasutajale õigused.
+ Vali: SQL Server and Windows Authentication mode
+```
 
 ```sql
 --GRANT - õiguste määramine
@@ -110,7 +109,6 @@ DENY INSERT ON puhkus TO directorIrina;
 <img width="832" height="696" alt="{A72F3912-2C8A-4D1F-9906-1ABE1AFC2CED}" src="https://github.com/user-attachments/assets/4b6946ba-ef85-4e85-a985-c4db74bb09c5" />
 
 
-Käsk	Tähendus
 SELECT	Lugemine
 INSERT	Lisamine
 UPDATE	Muutmine
@@ -121,8 +119,8 @@ DELETE	Kustutamine
 
 
     
-Ülesanne 1:
-Luua andmebaas: MovieBase
+### Ülesanne 1:
+**Luua andmebaas: MovieBase**
 
 Luua tabelid: 
 
@@ -131,9 +129,10 @@ guest (id, name)
 Lisada vähemalt 7 kirjet.
 
 Luua kasutaja Produtsent parooliga director, kellel on järgmised õigused:
-Õigus vaadata ja uuendada tabeli movies välju movieDir ja movieCost + lisada üks enda valitud privileeg.
-Õigus vaadata ja lisada kirjeid tabelisse guest.
-Keela andmete kustutamine tabelis.
+ - Õigus vaadata ja uuendada tabeli movies välju movieDir ja movieCost + lisada üks enda valitud privileeg.
+ - Õigus vaadata ja lisada kirjeid tabelisse guest.
+ - Keela andmete kustutamine tabelis.
+   
 Vihje! UPDATE õigused parem lubada SQL käsuga
 GRANT UPDATE (movieCost, movieDir)
 ON movies
