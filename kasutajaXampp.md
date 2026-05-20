@@ -8,6 +8,13 @@ Mine..
 
 <img width="1568" height="721" alt="{DED39447-36E2-4207-9D37-A2468504FC01}" src="https://github.com/user-attachments/assets/810d1975-a1d2-4119-8d91-4e7318699237" />
 
+### Kontroll
+
+<img width="991" height="574" alt="{472C6073-2BE8-45DE-992B-8D8EF93F6BE2}" src="https://github.com/user-attachments/assets/96ac18f8-ee07-47c1-9dec-34b165177ecc" />
+<img width="1423" height="475" alt="{ABDA3A72-C1C4-45F5-A7CC-ABBD6FD655F8}" src="https://github.com/user-attachments/assets/127d2987-8684-4261-8048-5f8a70eb9387" />
+
+
+
 
 
 
