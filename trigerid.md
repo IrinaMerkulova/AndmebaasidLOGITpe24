@@ -66,6 +66,7 @@ FROM deleted;
 <img width="893" height="547" alt="{724D58EE-1F4F-4A83-A4AA-B39B828CDC42}" src="https://github.com/user-attachments/assets/cdc5d093-23f7-4190-81d9-1d6709615bd6" />
 
 ## XAMPP / mariaDB päästikud / trigerid
+### INSERT TRIGER
 
 <img width="907" height="640" alt="{C73C9B0E-693A-4095-9A61-2893E554E601}" src="https://github.com/user-attachments/assets/433f16f6-5512-418a-ba1a-bfb5c71f9422" />
 
@@ -73,6 +74,12 @@ FROM deleted;
 2. Tulemus logi tabelist -
    <img width="734" height="164" alt="{7F23EA47-EB01-4123-99A7-93CDC13F4C0E}" src="https://github.com/user-attachments/assets/afe62d50-2128-4c0a-bf5d-fa3bfec8be21" />
 
+### DELETE TRIGER
+   <img width="745" height="484" alt="{98F09C6A-E020-4976-9358-DBCA2501B175}" src="https://github.com/user-attachments/assets/008cfbb2-e321-4d45-a91e-42396b64c489" />
+
+### UPDATE TRIGER
+
+<img width="858" height="573" alt="{00226B4C-EDE1-4DC5-82BB-86E3BF213839}" src="https://github.com/user-attachments/assets/d7fce817-26bc-46b3-9b43-f038df2a1cba" />
 
 
 
