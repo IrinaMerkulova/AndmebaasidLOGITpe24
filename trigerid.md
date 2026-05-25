@@ -69,9 +69,9 @@ FROM deleted;
 
 <img width="907" height="640" alt="{C73C9B0E-693A-4095-9A61-2893E554E601}" src="https://github.com/user-attachments/assets/433f16f6-5512-418a-ba1a-bfb5c71f9422" />
 
-1. Kontrollimiseks
-2. <img width="1133" height="385" alt="{CB086B15-2895-4064-BF13-DE97E02033A8}" src="https://github.com/user-attachments/assets/4653c3a7-6380-4d55-89e1-1ef2c7389c46" />
-<img width="734" height="164" alt="{7F23EA47-EB01-4123-99A7-93CDC13F4C0E}" src="https://github.com/user-attachments/assets/afe62d50-2128-4c0a-bf5d-fa3bfec8be21" />
+1. Kontrollimiseks <img width="1133" height="385" alt="{CB086B15-2895-4064-BF13-DE97E02033A8}" src="https://github.com/user-attachments/assets/4653c3a7-6380-4d55-89e1-1ef2c7389c46" />
+2. Tulemus logi tabelist -
+   <img width="734" height="164" alt="{7F23EA47-EB01-4123-99A7-93CDC13F4C0E}" src="https://github.com/user-attachments/assets/afe62d50-2128-4c0a-bf5d-fa3bfec8be21" />
 
 
 
