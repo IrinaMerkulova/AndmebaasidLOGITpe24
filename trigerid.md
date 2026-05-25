@@ -65,3 +65,17 @@ FROM deleted;
 ```
 <img width="893" height="547" alt="{724D58EE-1F4F-4A83-A4AA-B39B828CDC42}" src="https://github.com/user-attachments/assets/cdc5d093-23f7-4190-81d9-1d6709615bd6" />
 
+## XAMPP / mariaDB päästikud / trigerid
+
+<img width="907" height="640" alt="{C73C9B0E-693A-4095-9A61-2893E554E601}" src="https://github.com/user-attachments/assets/433f16f6-5512-418a-ba1a-bfb5c71f9422" />
+
+
+
+
+
+
+
+
+
+
+
