@@ -45,6 +45,7 @@ SELECT * FROM linnad;
 SELECT * FROM logi;
 ```
 <img width="646" height="367" alt="{25A079C5-3DA9-44AC-9D57-12F5D476D956}" src="https://github.com/user-attachments/assets/94aa5c38-af20-4b96-bf10-1ca58a771990" />
+
 ```sql
 --2. DELETE triger - jälgib kustutamine tabelis linnad 
 --ja teeb vastava kirje logi tabelisse
