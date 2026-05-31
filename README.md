@@ -1,5 +1,9 @@
 # AndmebaasidLOGITpe24
 Andmebaasidega seotud sql kood ja konspektid
+- [Kasutaja loomine XAMPP-is](kasutajaXampp.md)
+- [Kasutaja loomine SQL Server](kasutaja.md)
+- [Triggerid](trigerid.md)
+- [Vaated](vaated.md)
 
 - SQL - structured Query Language - struktureeritud päringukeel
 - DDL - Data Definition Language -andmebaasi struktuuri loomiseks - CREATE, ALTER
