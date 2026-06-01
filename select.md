@@ -1,3 +1,7 @@
+## Select laused SQL
+
+[Select laused](select.md) | [Kasutaja loomine XAMPP-is](kasutajaXampp.md) | [Kasutaja loomine SQL Server](kasutaja.md) | [Triggerid](trigerid.md) | [Kodutöö - Keys](keys.md)
+
 <img width="1220" height="545" alt="{63D6A2B7-AFBA-4074-A662-A746D2E9D2FE}" src="https://github.com/user-attachments/assets/fbeb3697-567c-4d5f-9fef-ee6b37ae1cc7" />
 
 ```sql
