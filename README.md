@@ -1,6 +1,8 @@
-# AndmebaasidLOGITpe24
+# Andmebaaside Õpetaja portfoolio ||| LOGITpe24
+
 Andmebaasidega seotud sql kood ja konspektid
-| [Kasutaja loomine XAMPP-is](kasutajaXampp.md) |  [Kasutaja loomine SQL Server](kasutaja.md)|  [Triggerid](trigerid.md)
+
+[Select laused](select.md) | [Kasutaja loomine XAMPP-is](kasutajaXampp.md) | [Kasutaja loomine SQL Server](kasutaja.md) | [Triggerid](trigerid.md) | [Kodutöö - Keys](keys.md)
 
 
 - SQL - structured Query Language - struktureeritud päringukeel
